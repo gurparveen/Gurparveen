@@ -32,7 +32,7 @@ My work centers on data cleaning, SQL analysis, Power BI dashboards, and turning
 - Data quality documentation
 - Power BI dashboard (PBIX)
 - Screenshots and visuals   
-👉 *View Project:*(https://github.com/gurparveen/nursing-home-quality-dashboard)
+👉 *View Project:*(https://github.com/gurparveen/nursing-home-quality-performance-dashboard)
 
 
 ---
