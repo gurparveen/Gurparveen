@@ -1,17 +1,16 @@
 # Hi, I'm Gurparveen Chahal 👋  
 ### Aspiring Data Analyst | Excel • SQL • Power BI
 
-I’m building a strong, business-focused data analytics portfolio using real-world datasets.  
-My work focuses on data cleaning, SQL analysis, dashboard design, and turning data into insights that support decision-making.
-
+I’m developing a business‑focused analytics portfolio using real‑world datasets across operations and healthcare.
+My work centers on data cleaning, SQL analysis, Power BI dashboards, and turning complex data into clear insights that drive better decisions.
 ---
 
 ## 🔧 Skills & Tools
 
-- **Excel:** Data cleaning, pivot tables, dashboards  
-- **SQL:** Data transformation, joins, CTEs, window functions  
-- **Power BI:** Data modeling, DAX measures, interactive dashboards  
-- **Other:** GitHub, Data storytelling, Business insights  
+- **Excel:** Advanced data cleaning, transformation, pivot tables, KPI dashboards  
+- **SQL:** Complex joins, CTEs, analytical queries  
+- **Power BI:** Data modeling, DAX, multi‑page dashboards, drillthrough & navigation  
+- **Other:** GitHub workflow, data storytelling, business insight generation  
 
 ---
 
@@ -25,14 +24,25 @@ My work focuses on data cleaning, SQL analysis, dashboard design, and turning da
 - Delivered insights on sales trends, profit, customer behavior, and regions  
 👉 *View Project:* (https://github.com/gurparveen/product-sales-region-analytics)
 
+
+### 🏥 Nursing Home Quality & Performance Dashboard
+**A Power BI + Excel project analyzing CMS Nursing Home data.*** Includes:
+- Cleaned dataset
+- Data quality documentation
+- Power BI dashboard (PBIX)
+- Screenshots and visuals
+👉 *View Project:*(https://github.com/gurparveen/nursing-home-quality-dashboard)
+
+
 ---
 
-## 🎯 What I'm Currently Learning
+### 🌱 What I'm Currently Learning
 
-- Advanced SQL (window functions, optimization)  
-- Power BI DAX for deeper analytics  
-- Building professional GitHub portfolios  
-- Real-world business case analysis  
+- Advanced SQL (window functions, performance optimization)
+- Power BI DAX for deeper analytics and data modeling
+- Building professional, well‑structured GitHub portfolio projects
+- Real‑world business case analysis using healthcare and operations datasets
+
 
 ---
 
