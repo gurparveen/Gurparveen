@@ -22,7 +22,7 @@ My work centers on data cleaning, SQL analysis, Power BI dashboards, and turning
 - Cleaned dataset in Excel  
 - Built SQL transformations & business queries  
 - Designed interactive Power BI dashboard  
-- Delivered insights on sales trends, profit, customer behavior, and regions  
+- Delivered insights on sales trends, profit, customer behavior, and regions    
 👉 *View Project:* (https://github.com/gurparveen/product-sales-region-analytics)
 
 
