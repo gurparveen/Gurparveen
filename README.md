@@ -18,8 +18,8 @@ My work centers on data cleaning, SQL analysis, Power BI dashboards, and turning
 ## 📊 Featured Projects  
 
 ## 🏥 Hospital Readmission Analysis
-A multi-page Power BI dashboard analyzing hospital readmission performance across states, conditions, and facilities.
-👉 *View Project:* (https://github.com/gurparveen/hospital-readmission-analysis)  
+A multi-page Power BI dashboard analyzing hospital readmission performance across states, conditions, and facilities.  
+ 👉 *View Project:* (https://github.com/gurparveen/hospital-readmission-analysis)  
 
   
 ### 🏥 Nursing Home Quality & Performance Dashboard
