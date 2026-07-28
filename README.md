@@ -15,17 +15,13 @@ My work centers on data cleaning, SQL analysis, Power BI dashboards, and turning
 
 ---
 
-## 📊 Featured Projects
+## 📊 Featured Projects  
 
-### 🔹 Product, Sales & Region Analytics  
-**Excel + SQL + Power BI (End-to-End Project)**  
-- Cleaned dataset in Excel  
-- Built SQL transformations & business queries  
-- Designed interactive Power BI dashboard  
-- Delivered insights on sales trends, profit, customer behavior, and regions    
-👉 *View Project:* (https://github.com/gurparveen/product-sales-region-analytics)
+## 🏥 Hospital Readmission Analysis
+A multi-page Power BI dashboard analyzing hospital readmission performance across states, conditions, and facilities.
+👉 *View Project:* (https://github.com/gurparveen/hospital-readmission-analysis)  
 
-
+  
 ### 🏥 Nursing Home Quality & Performance Dashboard
 **A Power BI + Excel project analyzing CMS Nursing Home data.*** Includes:
 - Cleaned dataset
@@ -34,6 +30,14 @@ My work centers on data cleaning, SQL analysis, Power BI dashboards, and turning
 - Screenshots and visuals   
 👉 *View Project:*(https://github.com/gurparveen/nursing-home-quality-performance-dashboard)
 
+
+### 🔹 Product, Sales & Region Analytics  
+**Excel + SQL + Power BI (End-to-End Project)**  
+- Cleaned dataset in Excel  
+- Built SQL transformations & business queries  
+- Designed interactive Power BI dashboard  
+- Delivered insights on sales trends, profit, customer behavior, and regions    
+👉 *View Project:* (https://github.com/gurparveen/product-sales-region-analytics)
 
 ---
 
